@@ -1,5 +1,5 @@
-# Proyecto Ejemplo
-Este proyecto demuestra cómo utilizar los principios SOLID en la escritura de código JavaScript para mejorar la mantenibilidad y la calidad del software.
+# Principios SOLID con JavaScript
+Este proyecto demuestra cómo utilizar los principios SOLID en JavaScript para mejorar la mantenibilidad y la calidad del software.
 
 ## Principios SOLID
 
