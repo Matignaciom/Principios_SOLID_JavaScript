@@ -22,3 +22,7 @@ Puedes clonar este repositorio y seguir las instrucciones de instalación y uso 
 
 ## Contribuciones
 Las contribuciones son bienvenidas. Si tienes alguna idea para mejorar este proyecto o deseas reportar un problema.
+
+## No olvides dar las gracias
+
+Hecho con ❤️ por Matias Ignacio - https://github.com/Matignaciom
